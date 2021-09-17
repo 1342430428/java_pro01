@@ -25,5 +25,6 @@ public class Book {
     public void test() {
         System.out.println("nihao");
         System.out.println("hhh");
+        System.out.println("wuxiao");
     }
 }
