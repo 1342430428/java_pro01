@@ -4,6 +4,7 @@ public class Book {
     private String bname;
     private String bauthor;
     private String address;
+    public String test;
 
     public void setAddress(String address) {
         this.address = address;
