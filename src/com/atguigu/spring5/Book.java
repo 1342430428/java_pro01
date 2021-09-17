@@ -21,4 +21,8 @@ public class Book {
     public void testDemo() {
         System.out.println(bname + ";" + bauthor + ";" + address);
     }
+
+    public void test() {
+        System.out.println("nihao");
+    }
 }
